@@ -1,0 +1,4 @@
+# example repos
+git@github.com:menski/git-helper.git
+git@github.com:menski/git-helper.git    helper
+git@github.com:menski/git-helper.git    my/

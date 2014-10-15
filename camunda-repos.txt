@@ -1,0 +1,27 @@
+# platform
+git@github.com:camunda/camunda-bpm-platform.git               platform/
+git@github.com:camunda/camunda-bpm-webapp.git                 platform/
+
+# ui
+git@github.com:camunda/camunda-admin-ui.git                   ui/
+git@github.com:camunda/camunda-cockpit-ui.git                 ui/
+git@github.com:camunda/camunda-commons-ui.git                 ui/
+git@github.com:camunda/camunda-tasklist-ui.git                ui/
+git@github.com:camunda/camunda-bpm-sdk-js.git                 ui/
+
+# model
+git@github.com:camunda/camunda-xml-model.git                  model/
+git@github.com:camunda/camunda-bpmn-model.git                 model/
+git@github.com:camunda/camunda-cmmn-model.git                 model/
+
+# projects
+git@github.com:camunda/camunda-spin.git                       projects/
+git@github.com:camunda/camunda-template-engines-jsr223.git    projects/
+git@github.com:camunda/camunda-connect.git                    projects/
+git@github.com:camunda/camunda-commons.git                    projects/
+
+# misc
+git@github.com:camunda/camunda-consulting.git                 consulting
+git@github.com:camunda/camunda-bpm-examples.git               examples
+git@github.com:camunda/camunda-engine-unittest.git            unittest
+git@github.com:camunda/docs.camunda.org.git                   docs
